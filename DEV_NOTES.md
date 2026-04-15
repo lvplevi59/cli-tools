@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Ran linter, applied auto-fixes
 - Added .editorconfig for consistent formatting
+
+## 2026-04-15
+- Reorganised test fixtures
+- Added inline documentation for core functions
+- Added type hints to helper functions
