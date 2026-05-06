@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Tested build on clean environment
 - Added .editorconfig for consistent formatting
+
+## 2026-05-06
+- Wrote notes on upcoming feature design
+- Reorganised test fixtures
