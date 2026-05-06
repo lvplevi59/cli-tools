@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Fixed minor edge case in input handling
+
+## 2026-05-06
+- Pinned dependency versions for reproducibility
+- Tested build on clean environment
+- Added .editorconfig for consistent formatting
